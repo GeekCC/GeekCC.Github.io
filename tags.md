@@ -13,5 +13,3 @@ header-img: "img/semantic.jpg"
 4. 马上试试？
 
 ##基因列表
-
-
